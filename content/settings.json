@@ -1,0 +1,9 @@
+{
+  "title": "Rubidium Web docs",
+  "url": "https://docs.rubidiumweb.eu/",
+  "logo": {
+    "light": "/logo-light.png",
+    "dark": "/logo-dark.png"
+  },
+  "github": "quentinglorieux/docrbw"
+}
