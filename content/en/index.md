@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: ICR documentation
 description: 'Description here'
 position: 1
 category: ''
@@ -20,7 +20,7 @@ Link example: [arxiv](http://arxiv.org).
 
 <alert type="success">
 
-The RBW documentations starts here
+The RBW documentations for ICR
 
 </alert>
 
