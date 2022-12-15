@@ -2,7 +2,7 @@
 title: Jobs
 description: ''
 position: 25
-category: Adding new content
+category: Site Admin content
 ---
 
 

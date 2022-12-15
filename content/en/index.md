@@ -12,20 +12,20 @@ features:
 <!-- <img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
 <img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/> -->
 
-<p class="flex items-center">With a nice light and dark mode:&nbsp;<app-color-switcher class="inline-flex ml-2"></app-color-switcher></p>
+
+Welcome to the Rubidium Web ICR website documentation.
+
+You can find a step by step tutorial to modify your website.
+
+If you have a spectific question jump to.
 
 
 
-Link example: [arxiv](http://arxiv.org).
+## Contact
 
-<alert type="success">
+Please do not hesitate to contact us for any question : contact@rubidiumweb.fr
 
-The RBW documentations for ICR
+We also can provide you a personal or project website. See our website for more information www.rubidiumweb.fr
 
-</alert>
-
-## Nos outils
-
-<list :items="features"></list>
 
 

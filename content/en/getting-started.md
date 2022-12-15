@@ -7,5 +7,5 @@ category: ''
 
 ### Welcome to your new scientific website !
 
-Follow this tutorial to learn how to create your site step by step
+Follow this tutorial to learn how to update your site step by step
 

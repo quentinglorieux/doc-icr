@@ -1,31 +1,32 @@
 ---
 title: General settings
 description: ''
-position: 11
-category: General
+position: 31
+category: Site Admin Settings
 
 ---
 
 
 ## General settings
 
-You can Manage your general site Settings with the <text-image src="MenuSiteSettings.JPG" alt="Site Settings" size="15"></text-image> Menu on Admin interface 
+You can Manage your general site Settings with the <text-image src="MenuSiteSettings.JPG" alt="Site Settings" size="15"></text-image> Menu on Admin interface. 
 
-  1. Title - General title of the website (recured)
-  2. Subitle - Subtitle of the website
-  3. Description - To be printed on the Home Page
-  4. Lab Adress - To be printed on the footer and/or Contact page
-  5. Contact Info - To be printed on the footer and/or Contact page
 
-<article-image src="GeneralSettings1.png" alt="settings" 
+
+<info-color type="darkorange"><text-image src="icon1darkorange.png" alt="1" size="7"></text-image> Manage Content on "Site Settings" Menu</info-color>
+
+<info-color type="validation"><text-image src="iconvalidation.png" alt="v" size="7"></text-image> Changes need Validation by Update Button</info-color>
+
+<info-color type="lightorange"><text-image src="icon1lightorange.png" alt="1" size="7"></text-image> See corresponding Modification on Website</info-color>
+
+
+<article-image src="GeneralSettings.png" alt="settings" 
 size="100" :center="false">
 </article-image>
 
-<alert type="success">Changes need Validation by Update Button</alert>
+<info-color type="darkorange"><text-image src="icon1darkorange.png" alt="1" size="7"></text-image> Manage Content on "Site Settings" Menu</info-color>
 
-Website Home Page and Footer Example
+<info-color type="validation"><text-image src="iconvalidation.png" alt="v" size="7"></text-image> Changes need Validation by Update Button</info-color>
 
-<article-image src="GeneralSettings2.png" alt="settings" 
-size="100" :center="false">
-</article-image>
+<info-color type="lightorange"><text-image src="icon1lightorange.png" alt="1" size="7"></text-image> See corresponding Modification on Website</info-color>
 

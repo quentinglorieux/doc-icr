@@ -1,8 +1,8 @@
 ---
 title: News
 description: ''
-position: 24
-category: Adding new content
+position: 21
+category: Site Admin content
 ---
 
 
