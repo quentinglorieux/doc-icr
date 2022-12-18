@@ -9,7 +9,7 @@ category: Site Admin Settings
 
 ## Changing banner image for a section
 
-Banners can be changing on Admnistrator Interface, for example Publications/Publications settings.
+Banners can be changed on Admnistrator Interface, for example **Publications/Publications settings**.
 
 1. Remove the banner image you want to change.
 2. Drag and drop the new image (and go directly to #6) or choose image on media library.
@@ -22,7 +22,7 @@ Banners can be changing on Admnistrator Interface, for example Publications/Publ
 size="100" :center="false">
 </article-image>
 
-Others banners can be changing in the same way, for example Jobs/Job settings, News/News seetings, etc...
+Others banners can be changed in the same way, for example **Jobs/Job settings**, **News/News seetings**, etc...
 
 
 

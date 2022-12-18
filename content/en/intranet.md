@@ -1,12 +1,10 @@
 ---
-title: Intranet (if avalaible)
+title: Intranet
 description: ''
-position: 23
+position: 33
 category: Site Admin Settings
 ---
 
 
-## Title type 2
-
-You can type code directly
+## Add Folder
 

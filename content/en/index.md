@@ -12,6 +12,11 @@ features:
 <!-- <img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
 <img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/> -->
 
+<article-image src="icr-logo.png" alt="" 
+size="50" :center="true">
+</article-image>
+
+## Welcome ! 
 
 Welcome to the Rubidium Web ICR website documentation.
 

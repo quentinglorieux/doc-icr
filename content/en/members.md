@@ -6,12 +6,12 @@ category: Team Admin content
 ---
 
 
-## Adding a new Member
+## Add a new Member
 
 To add a new member go on **Members/Add New**.
 
-You do not have to fill all the blanks, only **First Name**, **Last Name** and a valid **email** and 
-- [x] Send email
+You do not have to fill all the blanks, only **First Name**, **Last Name**, a valid **email** and 
+- [x] **Send email**
 <article-image src="Add-Edit-member.png" alt="Manually Add A member" 
 size="100" :center="false">
 </article-image>
@@ -29,8 +29,8 @@ size="100" :center="false">
 ## Modify Member information
 
 As a Site Administrator or Team Leader you can modify the members data.
-1. Search the member on **Members/Members list""
-2. Click on "modify"
+1. Search the member on **Members/Members list**
+2. Click on **modify**
 
 <article-image src="Member-Edit.PNG" alt="Member Edit" 
 size="100" :center="false">
@@ -39,15 +39,15 @@ size="100" :center="false">
 
 ## Resend the personal update email
 
-1. Search the member on **Members/Members list""
-2. Click on "modify"
+1. Search the member on **Members/Members list**
+2. Click on **modify**
 
 <article-image src="Member-Edit.PNG" alt="Member Edit" 
 size="100" :center="false">
 </article-image>
 
 Choose
-- [x] Send email
+- [x] **Send email**
 <article-image src="Add-Edit-member.png" alt="Manually Add A member" 
 size="100" :center="false">
 </article-image>
@@ -58,8 +58,8 @@ The  member will automatically receive a new email (maybe on spam directory) to 
 
 ## Quickly change Alumni Status
 
-1. Search the member on **Members/Members list""
-2. Click on "inline edit"
+1. Search the member on **Members/Members list**
+2. Click on **inline edit**
 3. Click on the pen in alumni column
 
 <article-image src="Member-Alumni.PNG" alt="Member Edit" 
@@ -68,9 +68,13 @@ size="100" :center="false">
 
 ## Erase a Member Page 
 
-1. Search the member on **Members/Members list""
+1. Search the member on **Members/Members list**
 2. Click on "trash"
 
 <article-image src="Member-Delete.PNG" alt="Member Delete" 
 size="100" :center="false">
 </article-image>
+
+## Correct an mistake on the status list
+
+Member status, english and french, can be corrected on **Member/Statut (EN)** and **Member/Statut (FR)**.

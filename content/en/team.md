@@ -28,13 +28,13 @@ Team Leader(s), Members, Research Topics, Associated Publications, Funding, Coll
 
 <article-image src="Team-Research.PNG" alt="Modify Team Research" size="100" :center="false">
 </article-image>
-Example : Team Research Topic EN/FR
+Example : Team Research Topic
 
 To modify or add content of those lists please refer to the corresponding paragraph Team Leader(s) ([Members](/members)), [Members](/members), [Research Topics](/research), Associated [Publications](/publications), [Funding and Collaboration](/funding). 
 
 <alert type="success">All the new content you add will appear on the list as soon as you have updating</alert> 
 
-## Adding A Team
+## Add A Team
 
-You can add a new team on Menu **Teams/Add Team**
+You can add a new team on Menu **Teams/Add new**
 
