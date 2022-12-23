@@ -32,7 +32,7 @@ To allow a member to add a news on the site, provide him the following url:
 
 https://icr.univ-amu.fr/common-news/
 
-login : ICR / mdp : AMU
+login : ICR / mdp : AMU24!
 
 A Site Administrator must then validate the publication of new news.
 

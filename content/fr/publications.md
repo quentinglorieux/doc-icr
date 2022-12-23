@@ -2,20 +2,20 @@
 title: Publications
 description: ''
 position: 11
-category: Team Admin content
+category: Contenu Admin d'Equipe
 ---
 
 
-## Manually add publication
+## Ajouter une publication manuellement
 
-You can add manually a publication on menu **Publications/Add New**
+Vous pouvez ajouter une publication manuellement via **Publications/Add New**
 
 
 <article-image src="Add_Edit_publication.png" alt="Manually Add Publication" 
 size="100" :center="false">
 </article-image>
 
-## Add with ArXiv
+## Ajouter avec ArXiv
 
 <article-image src="Publi-Arxiv.PNG" alt="Publication Arxiv" 
 size="100" :center="false">
@@ -25,7 +25,7 @@ size="100" :center="false">
 size="100" :center="false">
 </article-image>
 
-## Add with PubMed
+## Ajouter avec PubMed
 
 <article-image src="Publi-PubMed.PNG" alt="Publication Pubmed" 
 size="100" :center="false">
@@ -35,14 +35,14 @@ size="100" :center="false">
 size="100" :center="false">
 </article-image>
 
-## Add with Bibtex
+## Ajouter avec Bibtex
 
 <article-image src="Publi-Bibtex.PNG" alt="Publication Bibtex" 
 size="100" :center="false">
 </article-image>
 
 
-## Add with Zotero
+## Ajouter avec Zotero
 
 <article-image src="Publi-Zotero.PNG" alt="Publication Zotero" 
 size="100" :center="false">
@@ -52,7 +52,7 @@ size="100" :center="false">
 size="100" :center="false">
 </article-image>
 
-## Add with ORCID
+## Ajouter avec ORCID
 
 <article-image src="Publi-ORCID.PNG" alt="Publication ORCID" 
 size="100" :center="false">
@@ -62,26 +62,26 @@ size="100" :center="false">
 size="100" :center="false">
 </article-image>
 
-## Add with HAL
+## Ajouter avec HAL
 
-## Public Form to add a publication
+## Formulaire public pour ajouter une publication
 
-To allow a member to add a publications on the site, provide him the following url:
+Pour permettre à un membre d'ajouter une publication sur le site, envoyer lui l'adresse suivante :
 
 https://icr.univ-amu.fr/common-publications/
 
 login : ICR / mdp : AMU24!
 
-A Site Administrator must then validate the publication of new publication.
+Un adminitrateur du site doit valider la publication de la nouvelle offre d'emploi.
 
-## Modify a publication
+## Modifier une publication
 
-You can manually modify any publication on **Publications/Publications list** by click on **modify** under the title.
+Vous pouvez modifer n'importe quelle publication sur **Publications/Publications list** en cliquant sur **modifier** sous le titre.
 
-Quick modification are also available, for example, to add a PDF file you can :
-1. Search the publication on **Publications/Publications list**
-2. Click on **inline edit**
-3. Click on the pen in PDF column
+Les modifications rapides sont aussi disponibles, par exemple, pour ajouter un pdf à une publication vous pouvez :
+1. Cherchez la publication dans **Publications/Publications list**
+2. Cliquer sur **modification en ligne**
+3. Cliquez que le crayon dans la colonne pdf
 
 <article-image src="Publi-Modify.PNG" alt="Publication Modify" 
 size="100" :center="false">

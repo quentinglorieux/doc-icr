@@ -69,7 +69,7 @@ size="100" :center="false">
 ## Erase a Member Page 
 
 1. Search the member on **Members/Members list**
-2. Click on "trash"
+2. Click on **trash**
 
 <article-image src="Member-Delete.PNG" alt="Member Delete" 
 size="100" :center="false">

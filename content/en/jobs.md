@@ -18,7 +18,7 @@ To allow a member to add a job offer on the site, provide him the following url:
 
 https://icr.univ-amu.fr/common-jobs/
 
-login : ICR / mdp : AMU
+login : ICR / mdp : AMU24!
 
 A Site Administrator must then validate the publication of new job offer.
 
@@ -27,7 +27,7 @@ A Site Administrator must then validate the publication of new job offer.
 You can modfify a job offer on Menu **Jobs/Jobs list** by click on **modify** under the title.
 
 Quick modification are also available, for example, to add a PDF file you can :
-1. Search the publication on **Jobs/Jobs list**
+1. Search the offer on **Jobs/Jobs list**
 2. Click on **inline edit**
 3. Click on the pen in PDF column
 
